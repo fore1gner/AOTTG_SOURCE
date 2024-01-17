@@ -1,0 +1,16 @@
+C:\Users\melih\Desktop\aottgRC_SorceCode\bin\Debug\net35\Assembly-CSharp.dll
+C:\Users\melih\Desktop\aottgRC_SorceCode\bin\Debug\net35\Assembly-CSharp.pdb
+C:\Users\melih\Desktop\aottgRC_SorceCode\bin\Debug\net35\Assembly-CSharp-firstpass.dll
+C:\Users\melih\Desktop\aottgRC_SorceCode\bin\Debug\net35\Assembly-UnityScript-firstpass.dll
+C:\Users\melih\Desktop\aottgRC_SorceCode\bin\Debug\net35\Photon3Unity3D.dll
+C:\Users\melih\Desktop\aottgRC_SorceCode\bin\Debug\net35\UnityEngine.dll
+C:\Users\melih\Desktop\aottgRC_SorceCode\bin\Debug\net35\UnityEngine.UI.dll
+C:\Users\melih\Desktop\aottgRC_SorceCode\bin\Debug\net35\Boo.Lang.dll
+C:\Users\melih\Desktop\aottgRC_SorceCode\bin\Debug\net35\UnityScript.Lang.dll
+C:\Users\melih\Desktop\aottgRC_SorceCode\bin\Debug\net35\Mono.Security.dll
+C:\Users\melih\Desktop\aottgRC_SorceCode\obj\Debug\net35\Assembly-CSharp.csproj.AssemblyReference.cache
+C:\Users\melih\Desktop\aottgRC_SorceCode\obj\Debug\net35\Assembly-CSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\melih\Desktop\aottgRC_SorceCode\obj\Debug\net35\Assembly-CSharp.csproj.CoreCompileInputs.cache
+C:\Users\melih\Desktop\aottgRC_SorceCode\obj\Debug\net35\Assembly-CSharp.csproj.CopyComplete
+C:\Users\melih\Desktop\aottgRC_SorceCode\obj\Debug\net35\Assembly-CSharp.dll
+C:\Users\melih\Desktop\aottgRC_SorceCode\obj\Debug\net35\Assembly-CSharp.pdb
